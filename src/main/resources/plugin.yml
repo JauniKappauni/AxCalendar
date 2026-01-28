@@ -1,0 +1,4 @@
+name: AxCalendar
+version: '1.0-SNAPSHOT'
+main: de.jauni.axcalendar.AxCalendar
+api-version: '1.21'
